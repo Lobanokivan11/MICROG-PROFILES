@@ -2,7 +2,7 @@
 
 ## List of Scripts:
 
-1. ```dl-device-list.sh```: Download Google's Complictable Device List. Please! Run This Before Generating Of Profile
+1. ```dl-device-list.sh```: Download Google's Complictable Device List And Save to [```data/device-list.csv```](https://github.com/Lobanokivan11/MICROG-PROFILES/raw/refs/heads/main/utils/data/device-list.csv) File. Please! Run This Before Generating Of Profile
 
 2. ```device-info.sh```: Get device Info Before Generating of Profile.
 

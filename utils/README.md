@@ -12,6 +12,8 @@
 
 1. ```profile-generator.sh``` Can't Check it Device is Certified even This Device Has Official Google Play Integration From google (Script Shows That DEVICE NOT CERTIFIED even Device Has GMS Integration from GOOGLE)
 
+2. ```profile-generator.sh``` Generate xml microG Profile With Empty ```Build.CPU_ABI2``` Value, Because script can't find it.
+
 ## Thanks to [ale5000-git](https://github.com/ale5000-git) For This Scripts
 
 ## Scripts Had Got From ```utils``` Folder OF [ale5000-git's Repo](https://github.com/micro5k/microg-unofficial-installer/tree/main/utils)

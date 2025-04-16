@@ -9,3 +9,5 @@
 3. ```profile-generator.sh```: Generate Profile From Both ADB AND Getprop Output Inside *.txt
 
 ## Thanks to [ale5000-git](https://github.com/ale5000-git) For This Scripts
+
+## Scripts Had Got From ```utils``` Folder OF [ale5000-git's Repo](https://github.com/micro5k/microg-unofficial-installer/tree/main/utils)

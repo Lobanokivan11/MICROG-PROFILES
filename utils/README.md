@@ -8,6 +8,10 @@
 
 3. ```profile-generator.sh```: Generate Profile From Both ADB AND Getprop Output Inside *.txt
 
+## Known Issues:
+
+1. ```profile-generator.sh``` Can't Check it Device is Certified even This Device Has Official Google Play Integration From google
+
 ## Thanks to [ale5000-git](https://github.com/ale5000-git) For This Scripts
 
 ## Scripts Had Got From ```utils``` Folder OF [ale5000-git's Repo](https://github.com/micro5k/microg-unofficial-installer/tree/main/utils)

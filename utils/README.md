@@ -1,4 +1,4 @@
-# microG Profiles Generator
+# microG Profiles Generator (experimental)
 
 ## List of Scripts:
 

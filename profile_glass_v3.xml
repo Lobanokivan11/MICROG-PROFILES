@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: none
+    SPDX-License-Identifier: CC0-1.0
+-->
+
+<profile name="Google Glass Enterprise Edition 2 (Android 8.1.0)" product="glass_v3" sdk="27" id="glass_v3_27" auto="true">
+    <data key="Build.BOARD" value="sdm710" />
+    <data key="Build.BOOTLOADER" value="unknown" />
+    <data key="Build.BRAND" value="Android" />
+    <data key="Build.CPU_ABI" value="arm64-v8a" />
+    <data key="Build.CPU_ABI2" value="" />
+    <data key="Build.DEVICE" value="glass_v3" />
+    <data key="Build.DISPLAY" value="OPM1.200625.001" />
+    <data key="Build.FINGERPRINT" value="Android/glass_v3/glass_v3:8.1.0/OPM1.200625.001/jbolin06251755:user/release-keys" />
+    <data key="Build.HARDWARE" value="qcom" />
+    <data key="Build.HOST" value="045527a08a0c" />
+    <data key="Build.ID" value="OPM1.200625.001" />
+    <data key="Build.MANUFACTURER" value="Google" />
+    <data key="Build.MODEL" value="Glass Enterprise Edition 2" />
+    <data key="Build.PRODUCT" value="glass_v3" />
+    <data key="Build.RADIO" value="sxr" />
+    <data key="Build.TAGS" value="release-keys" />
+    <data key="Build.TIME" value="1593107747000" />
+    <data key="Build.TYPE" value="user" />
+    <data key="Build.USER" value="jbolinger" />
+    <data key="Build.VERSION.CODENAME" value="REL" />
+    <data key="Build.VERSION.INCREMENTAL" value="eng.jbolin.20200625.175547" />
+    <data key="Build.VERSION.RELEASE" value="8.1.0" />
+    <data key="Build.VERSION.SECURITY_PATCH" value="2018-07-05" />
+    <data key="Build.VERSION.SDK" value="27" />
+    <data key="Build.VERSION.SDK_INT" value="27" />
+    <data key="Build.VERSION.DEVICE_INITIAL_SDK_INT" value="" />
+    <data key="Build.SUPPORTED_ABIS" value="arm64-v8a,armeabi-v7a,armeabi" />
+    <serial template="0QNTGG0000000000" />
+</profile>

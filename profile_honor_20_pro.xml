@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: NONE
+    SPDX-License-Identifier: CC0-1.0
+-->
+
+<profile name="HUAWEI HONOR 20 PRO (EMUI v12.0.0 - 10)" product="YAL-L41RU" sdk="29" id="YAL-L41RU_29" auto="true">
+    <data key="Build.BOARD" value="YAL" />
+    <data key="Build.BOOTLOADER" value="unknown" />
+    <data key="Build.BRAND" value="HONOR" />
+    <data key="Build.CPU_ABI" value="arm64-v8a" />
+    <data key="Build.CPU_ABI2" value="" />
+    <data key="Build.DEVICE" value="HWYAL" />
+    <data key="Build.DISPLAY" value="YAL-L41 10.1.0.245(C10E3R3P2)" />
+    <data key="Build.FINGERPRINT" value="HONOR/YAL-L41RU/HWYAL:10/HUAWEIYAL-L41/10.1.0.245C10:user/release-keys" />
+    <data key="Build.HARDWARE" value="kirin980" />
+    <data key="Build.HOST" value="cn-central-1b-dae163e4a1596182337697-3114502361-klhwx" />
+    <data key="Build.ID" value="HUAWEIYAL-L41" />
+    <data key="Build.MANUFACTURER" value="HUAWEI" />
+    <data key="Build.MODEL" value="YAL-L41" />
+    <data key="Build.PRODUCT" value="YAL-L41RU" />
+    <data key="Build.RADIO" value="21C20B379S000C000,21C20B379S000C000" />
+    <data key="Build.TAGS" value="release-keys" />
+    <data key="Build.TIME" value="1596186885000" />
+    <data key="Build.TYPE" value="user" />
+    <data key="Build.USER" value="test" />
+    <data key="Build.VERSION.CODENAME" value="REL" />
+    <data key="Build.VERSION.INCREMENTAL" value="10.1.0.245C10" />
+    <data key="Build.VERSION.RELEASE" value="10" />
+    <data key="Build.VERSION.SECURITY_PATCH" value="2020-08-01" />
+    <data key="Build.VERSION.SDK" value="29" />
+    <data key="Build.VERSION.SDK_INT" value="29" />
+    <data key="Build.VERSION.DEVICE_INITIAL_SDK_INT" value="28" />
+    <data key="Build.SUPPORTED_ABIS" value="arm64-v8a,armeabi-v7a,armeabi" />
+    <serial template="34HDU10F00000000" />
+</profile>
